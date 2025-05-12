@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Apple iPhone 15",
+    "price": 999.99,
+    "imageUrl": "assets/images/iphone.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S23",
+    "price": 899.99,
+    "imageUrl": "assets/images/samsung.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Google Pixel 8",
+    "price": 799.99,
+    "imageUrl": "assets/images/google.jpeg"
+  }
+]
